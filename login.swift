@@ -1,9 +1,3 @@
-//
-//  login.swift
-//  Auth
-//
-//  Created by Adil Meirambek on 21.04.2022.
-//
 
 import UIKit
 import FirebaseAuth
